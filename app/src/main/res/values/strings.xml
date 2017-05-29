@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SDacademyAplikacja</string>
+    <string name="already_registered_please_signin">Already registered? Please SignIn</string>
+    <string name="register_user">Register User</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="user_login">User LogIn</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="sing_in">Sing In</string>
+    <string name="not_have_an_account_create_here">Not have an account? Create here..</string>
+    <string name="splash_screen">SPLASH SCREEN</string>
+    <string name="toast_enter_email">Enter the email..</string>
+    <string name="toast_enter_valid_email">Enter the valid email..</string>
+    <string name="toast_check_connection">Check your internet connection..</string>
+    <string name="toast_enter_password">Enter the password..</string>
+    <string name="toast_password_to_short">Password is to short..</string>
+    <string name="registration_progress">Registration...</string>
+    <string name="toast_account_created">Account created</string>
+    <string name="toast_something_wrong">Something went wrong... try again</string>
+</resources>
